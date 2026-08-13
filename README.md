@@ -8,7 +8,7 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 ### 💻 Tech Stack & Tools
 
 ![Security](https://img.shields.io/badge/Focus-SOC%20Operations%20%7C%20Ethical%20Hacking-red?style=for-the-badge)
-![Languages](https://img.shields.io/badge/Languages-HTML5%20%7C%20CSS3%20%7C%20JavaScript-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20HTML5%20%7C%20CSS3%20%7C%20JavaScript-blue?style=for-the-badge)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20TryHackMe%20%7C%20Vercel-success?style=for-the-badge)
 
 ---
