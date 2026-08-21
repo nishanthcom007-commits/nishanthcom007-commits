@@ -36,5 +36,6 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 ---
 
 ### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishanth%20N-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-n-cybersec)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NISHANTH%20N-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth18/)
+
