@@ -28,9 +28,14 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nishanthcom007-commits&show_icons=true&theme=dark" alt="Nishanth's GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nishanthcom007-commits&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanthcom007-commits&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishanthcom007-commits&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 ---
 
