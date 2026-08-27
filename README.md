@@ -28,8 +28,17 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 
 ### 📈 GitHub Stats
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanthcom007-commits&theme=tokyo-night&hide_border=true&area=true)
+### 📈 GitHub Stats
 
+```text
+┌──(soc-analyst@nishanth)-[~/github/stats]
+└─$ cat telemetry.log
+
+[+] REPOSITORIES   : Public & Active
+[+] CODE BASE      : Python | JavaScript | HTML5 | CSS3
+[+] LABS & OPS     : TryHackMe | SOC Operations | Web Crypto
+[+] DEPLOYMENTS    : Vercel Cloud (Live)
+[+] SYSTEM STATUS  : 100% Operational • Actively Committing
 ---
 
 ### 📫 Connect with Me
