@@ -28,12 +28,15 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanthcom007-commits&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthcom007-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nishanthcom007-commits&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nishanthcom007-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthcom007-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nishanthcom007-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
