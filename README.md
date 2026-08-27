@@ -28,10 +28,8 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 
 ### 📈 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nishanthcom007-commits&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/nishanthcom007-commits/nishanthcom007-commits/output/github-contribution-grid-snake-dark.svg)
-</p>
 ---
 
 ### 📫 Connect with Me
