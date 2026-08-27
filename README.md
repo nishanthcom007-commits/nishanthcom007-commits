@@ -30,7 +30,12 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=nishanthcom007-commits&theme=react-dark&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=nishanthcom007-commits&theme=react-dark&hide_border=true&area=true)" width="100%" alt="Contribution Graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishanthcom007-commit&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthcom007-commit&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthcom007-commit&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ### 📫 Connect with Me
