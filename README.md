@@ -30,11 +30,7 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanthcom007-commits&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishanthcom007-commits&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  ![Snake animation](https://raw.githubusercontent.com/nishanthcom007-commits/nishanthcom007-commits/output/github-contribution-grid-snake-dark.svg)
 </p>
 ---
 
