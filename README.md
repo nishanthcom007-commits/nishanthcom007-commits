@@ -37,9 +37,7 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=nishanthcom007-commits&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanthcom007-commits&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishanth%20N-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-n-cybersec)
