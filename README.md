@@ -33,9 +33,7 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nishanthcom007-commits&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=nishanthcom007-commits&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+
 
 
 
