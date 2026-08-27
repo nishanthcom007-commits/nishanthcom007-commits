@@ -26,12 +26,19 @@ Cybersecurity student passionate about SOC operations, ethical hacking, web secu
 
 ---
 
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nishanthcom007-commits&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nishanthcom007-commits&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=nishanthcom007-commits&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nishanthcom007-commits&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=nishanthcom007-commits&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanthcom007-commits&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ### 📫 Connect with Me
